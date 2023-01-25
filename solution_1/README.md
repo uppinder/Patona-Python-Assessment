@@ -1,5 +1,11 @@
 # Problem 1
 
+To run the scraper, execute:
+
+`$ python scraper.py`
+
+The entries are written to 'diseases.csv' and icon files are downloaded to the 'icons' folder categorized alphabetically.
+
 ## Problem Statement:
 
 Write a python code using web scraping method for creating a list of
