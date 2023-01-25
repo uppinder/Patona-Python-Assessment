@@ -4,6 +4,16 @@ Solution code for Python coding assessment for Patona
 
 The code for the two problems with instructions on how to run them are in their respective solutions folder.
 
+## Dependencies
+
+To install dependecies run the following:
+
+```
+$ pip install selenium bs4 webdriver_manager
+```
+
+## Problems
+
 ```
 Problem Statement 1:
 
@@ -34,3 +44,7 @@ def mystery(n):
 
 return v
 ```
+
+## Author
+
+[Uppinder Chugh](https://www.linkedin.com/in/uppinder)
