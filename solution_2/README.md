@@ -2,7 +2,7 @@
 
 To run the solution, execute:
 
-`$ python test_myster.py`
+`$ python test_mystery.py`
 
 ## Problem Statement 2:
 
